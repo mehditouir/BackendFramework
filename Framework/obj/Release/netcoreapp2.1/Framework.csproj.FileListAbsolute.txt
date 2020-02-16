@@ -1,0 +1,10 @@
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\bin\Release\netcoreapp2.1\Framework.deps.json
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\bin\Release\netcoreapp2.1\Framework.runtimeconfig.json
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\bin\Release\netcoreapp2.1\Framework.runtimeconfig.dev.json
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\bin\Release\netcoreapp2.1\Framework.dll
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\bin\Release\netcoreapp2.1\Framework.pdb
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\obj\Release\netcoreapp2.1\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\obj\Release\netcoreapp2.1\Framework.AssemblyInfoInputs.cache
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\obj\Release\netcoreapp2.1\Framework.AssemblyInfo.cs
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\obj\Release\netcoreapp2.1\Framework.dll
+C:\Users\Mehdi\source\repos\BackendFramework\Framework\obj\Release\netcoreapp2.1\Framework.pdb
